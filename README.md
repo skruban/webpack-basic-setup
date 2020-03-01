@@ -23,7 +23,7 @@ module.exports = {
 // package.json
 {
   "scripts": {
-      "build": "webpack" 
+      "build": "webpack --mode development" 
    }
 }
 ```
