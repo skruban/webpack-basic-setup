@@ -1,7 +1,9 @@
 # webpack-basic-setup
 
+
 #### Install dependencies:
 > npm install --save-dev webpack@next webpack-cli
+
 
 #### Webpack configuration:
 ###### 1. Create webpack.config.js at project root level.
@@ -18,6 +20,7 @@ module.exports = {
 };
 ```
 
+
 ###### 2. Add new package script to run Webpack from config.
 ```
 // package.json
@@ -28,8 +31,10 @@ module.exports = {
 }
 ```
 
+
 #### Run the webpack
 > npm run build
+
 
 NOTE:
 Install latest node version.
