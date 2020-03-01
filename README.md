@@ -5,6 +5,8 @@
 > npm install --save-dev webpack@next webpack-cli
 
 
+
+
 #### Webpack configuration:
 ###### 1. Create webpack.config.js at project root level.
 ```
@@ -30,6 +32,8 @@ module.exports = {
    }
 }
 ```
+
+
 
 
 #### Run the webpack
