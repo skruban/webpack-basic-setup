@@ -1,11 +1,9 @@
 # webpack-basic-setup
 
-Install (locally):
->yarn add webpack@next webpack-cli --dev
+### Install dependencies:
+> node install--save-dev webpack@next webpack-cli
 
-
-To run Webpack:
-
+### Create files:
 #### 1. Create webpack.config.js at project root level.
 ```
 // webpack.config.js
