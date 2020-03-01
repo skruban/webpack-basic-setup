@@ -23,13 +23,13 @@ module.exports = {
 // package.json
 {
   "scripts": {
-      "start": "webpack --mode development --config webpack.config.json" 
+      "build": "webpack" 
    }
 }
 ```
 
-Run:
-> yarn start
+### Run the webpack
+> npm run build
 
 NOTE:
 Install latest node version.
