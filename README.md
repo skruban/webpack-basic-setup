@@ -1,7 +1,7 @@
 # webpack-basic-setup
 
 ### Install dependencies:
-> npm install--save-dev webpack@next webpack-cli
+> npm install --save-dev webpack@next webpack-cli
 
 ### Create files:
 #### 1. Create webpack.config.js at project root level.
