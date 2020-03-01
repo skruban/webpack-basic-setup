@@ -4,7 +4,7 @@ Install (locally):
 >yarn add webpack@next webpack-cli --dev
 
 To run Webpack:
-1. 
+1.
 Create webpack.config.js at project root level.
 // webpack.config.js
 var path = require('path');
