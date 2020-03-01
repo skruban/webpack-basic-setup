@@ -34,3 +34,6 @@ Run:
 
 NOTE:
 Install latest node version.
+
+// another way
+"build": "webpack --mode development --config webpack.config.js"
